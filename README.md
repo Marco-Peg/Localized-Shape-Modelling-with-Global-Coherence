@@ -16,6 +16,7 @@ Download the folders containing the datasets as .mat files from this link:
 You can train the model on different datasets.
 To train the model on SURREAL, run: 
     `python TrainingSURREAL.py`
+    
 To train the model on CUBE, run:    
     `python TrainingCUBE.py`
 
