@@ -23,3 +23,20 @@ To train the model on CUBE, run: `python TrainingCUBE.py`
 
 Once the training is completed, you can test the model with: 
     `python intrinsic_error.py`
+
+
+## Citation
+
+If you use our work, please cite our papers.
+
+```bibtex
+@article {pegoraro2021localized, 
+ journal = {Computer Graphics Forum}, 
+ title = {{Localized Shape Modelling with Global Coherence: An Inverse Spectral Approach}}, 
+ author = {Pegoraro, Marco and Melzi, Simone and Castellani, Umberto and Marin, Riccardo and Rodolà, Emanuele},
+ year = {2022}, 
+ publisher = {The Eurographics Association and John Wiley & Sons Ltd.}, 
+ ISSN = {1467-8659},
+ DOI = {10.1111/cgf.14599}
+}
+```
